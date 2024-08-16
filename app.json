@@ -16,7 +16,8 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.rishijain01.basicreactnative"
     },
     "web": {
       "bundler": "metro",
