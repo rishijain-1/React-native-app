@@ -17,7 +17,7 @@ export default function Home() {
 
     return (
         <SafeAreaView style={styles.container}>
-            <ImageBackground source={require('./assest/img/home-img.jpg')} style={styles.backgroundImage}>
+            <ImageBackground source={require('../assest/img/home-img.jpg')} style={styles.backgroundImage}>
                
                 <ScrollView
                     contentContainerStyle={styles.scrollContentContainer}
