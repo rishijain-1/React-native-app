@@ -1,4 +1,51 @@
-> Edited for use in IDX on 07/09/12
+
+# React Native Single page App
+
+Single Screen Page App is single page website using Expo (react-native). This application is made for task assign to me. 
+
+## Tech Stack
+
+**Client:** React
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/rishijain-1/React-native-app
+```
+
+Go to the project directory
+
+```bash
+  cd react-quotes-web-page
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+  npx expo start --tunnel || yarn expo start --tunnel (for online code editor)
+  npx expo start || yarn expo start (for local machine)
+```
+
+for expo build
+
+   eas login
+   eas build:configure
+   eas build
+## Feedback
+
+If you have any feedback, please reach out to us at 
+rishijain0652@gmail.com
+
+
+
 
 # Welcome to your Expo app 👋
 
